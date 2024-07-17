@@ -146,20 +146,6 @@
 	// Removals
 	// Any improvement that starts with 'Remove ' is automatically changed into
 	// the improvement that removes the terrainfeature after it.
-	{	
-		// add one-time production bonus
-		"name": "Remove Jungle",
-		"turnsToBuild": 7,
-		"techRequired": "Bronze Working",
-		"uniques": [
-			"Provides a one-time Production bonus to the closest city when cut down",
-			"Can be built outside your borders", 
-			"Excluded from map editor"
-		],
-		"shortcutKey": "X"
-	},
-
-	// New removal 
 	{
 		"name": "Remove Ice",
 		"turnsToBuild": 4,
@@ -174,5 +160,5 @@
                         "Excluded from map editor"
 		]
                 
-	},
+	}
 ]
