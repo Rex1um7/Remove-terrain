@@ -7,10 +7,9 @@
 		"occursOn": ["Ocean", "Coast"],
 		"uniques": [
 			"Provides a one-time Production bonus to the closest city when cut down",
-	        "Occurs at temperature between [-1] and [-0.8] and humidity between [0] and [1]",
+	                "Occurs at temperature between [-1] and [-0.8] and humidity between [0] and [1]",
 			"[-1] to Fertility for Map Generation",
-			"Considered [Undesirable] when determining start locations",
-	        "Provides a one-time Production bonus to the closest city when cut down"
+			"Considered [Undesirable] when determining start locations"
 	    ]
 	},
 	{
@@ -36,5 +35,30 @@
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
 			"Provides a one-time Production bonus to the closest city when cut down"
 		]
-	}
+	}/*,
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"turnsToBuild": 4,
+		"techRequired": "The Wheel",
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
+	},
+	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"turnsToBuild": 4,
+		"techRequired": "Railroads",
+		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
+            {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
+        ]
+	}*/
 ] 
