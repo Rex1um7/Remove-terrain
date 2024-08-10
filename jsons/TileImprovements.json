@@ -144,36 +144,17 @@
 	},
 	
         {
-		"name": "Road",
+		"name": "Bridge",
 		"terrainsCanBeBuiltOn": [
-                        "Land",
                         "Ocean",
                         "Coast"
 ],
 		"turnsToBuild": 4,
-		"techRequired": "The Wheel",
-		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"techRequired": "Construction",
+		"uniques": ["Can be built outside your borders", "Costs [3] [Gold] per turn"],
 		"shortcutKey": "R",
-        "civilopediaText": [
-            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
-            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
-            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
-        ]
-	},
-	{
-		"name": "Railroad",
-		"terrainsCanBeBuiltOn": [
-			"Land",
-                        "Ocean",
-			"Coast"
-		],
-		"turnsToBuild": 4,
-		"techRequired": "Railroads",
-		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
-		"shortcutKey": "R",
-        "civilopediaText": [
-            {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
-            {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
+                "civilopediaText": [
+                {"text":"Allow your land units to pass through two continents"}
         ]
 	},
 	
@@ -193,6 +174,19 @@
 			"Can only be built on [Ice] tiles",
                         "Excluded from map editor"
 		]
-                
+	},
+	{
+                "name": "Remove Bridge",
+		"turnsToBuild": 4,
+		"terrainsCanBeBuiltOn": [
+			"Coast",
+			"Ocean"
+		],
+		"techRequired": "Construction",
+		"uniques": [
+			"Can be built outside your borders",
+			"Can only be built on [Bridge] tiles",
+                        "Excluded from map editor"
+		]
 	}
 ]
