@@ -145,7 +145,11 @@
 	
         {
 		"name": "Road",
-		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"terrainsCanBeBuiltOn": [
+                        "Land",
+                        "Ocean",
+                        "Coast"
+],
 		"turnsToBuild": 4,
 		"techRequired": "The Wheel",
 		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
@@ -158,7 +162,11 @@
 	},
 	{
 		"name": "Railroad",
-		"terrainsCanBeBuiltOn": ["Land","Water"],
+		"terrainsCanBeBuiltOn": [
+			"Land",
+                        "Ocean",
+			"Coast"
+		],
 		"turnsToBuild": 4,
 		"techRequired": "Railroads",
 		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
