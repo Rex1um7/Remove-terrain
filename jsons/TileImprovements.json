@@ -148,15 +148,14 @@
 		"terrainsCanBeBuiltOn": [
                         "Ocean",
                         "Coast"
-],
+                ],
 		"turnsToBuild": 4,
 		"techRequired": "Construction",
 		"uniques": [
 			"Can be built outside your borders", 
 			"Costs [3] [Gold] per turn",
-			"Grants [Cross Access] to adjacent [Land] units for the rest of the game"
+			"[Land] units gain the [Cross Access] promotion <in tiles adjacent to [Bridge]>"
 		],
-		"shortcutKey": "R",
                 "civilopediaText": [
                 {"text":"Allow your land units to pass through two continents"}
         ]
