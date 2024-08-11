@@ -2,8 +2,8 @@
         {
 		        "name": "Cross Access",
 		        "uniques": [
-			              "[0] Movement point cost to disembark",
-			              "[0] Movement point cost to embark"
+			              "[0] Movement point cost to disembark <in [Bridge] tiles>",
+			              "[0] Movement point cost to embark <in [Bridge] tiles>"
 		        ]
         }
 ]
