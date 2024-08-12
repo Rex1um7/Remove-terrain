@@ -4,7 +4,8 @@
 		        "uniques": [
 			               "[1] Movement point cost to disembark <in [Bridge] tiles>",
 			               "[1] Movement point cost to embark <in [Land] tiles>",
-					"May attack when embarked <in [Bridge] tiles>"
+				       "May attack when embarked <in [Bridge] tiles>",
+				       "Double movement in [Bridge]"
 		        ]
         }
 ]
