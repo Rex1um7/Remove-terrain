@@ -146,8 +146,7 @@
         {
 		"name": "Bridge",
 		"terrainsCanBeBuiltOn": [
-                        "Ocean",
-                        "Coast"
+                        "Water"
                 ],
 		"turnsToBuild": 4,
 		"techRequired": "Construction",
