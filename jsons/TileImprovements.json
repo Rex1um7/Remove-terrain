@@ -153,7 +153,7 @@
 		"uniques": [
 			"Can be built outside your borders", 
 			"Costs [3] [Gold] per turn",
-			"[Land] units gain the [Cross Access] promotion <in tiles adjacent to [Bridge] tiles>"
+			"[Land] units gain the [Cross Access] promotion <within [1] tiles of a [Bridge]>"
 		],
                 "civilopediaText": [
                 {"text":"Allow your land units to pass through two continents"}
@@ -181,8 +181,7 @@
                 "name": "Remove Bridge",
 		"turnsToBuild": 4,
 		"terrainsCanBeBuiltOn": [
-			"Coast",
-			"Ocean"
+			"Water"
 		],
 		"techRequired": "Construction",
 		"uniques": [
