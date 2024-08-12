@@ -6,6 +6,7 @@
         "cost": 30,
         "requiredTech": "Sailing",
         "uniques":[
+                "Can move immediately once bought",
                 "Can build [Water] improvements on tiles",
                 "Can enter ice tiles <after discovering [Combustion]>",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>"
