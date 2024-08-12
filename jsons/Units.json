@@ -3,10 +3,11 @@
         "name":"Test boat",
         "unitType":"Civilian Water",
         "movement": 4,
-        "cost": 30,
+        "cost": 75,
         "requiredTech": "Sailing",
         "uniques":[
-                "Can move immediately once bought",
+                "Can move immediately once bought <hidden from users>",
+                "Cost increases by [15] per owned city <hidden from users>",
                 "Can build [Water] improvements on tiles",
                 "Can enter ice tiles <after discovering [Combustion]>",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>"
