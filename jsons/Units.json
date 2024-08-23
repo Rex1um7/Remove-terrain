@@ -1,4 +1,4 @@
-/*[
+[
     {
         "name":"Test boat",
         "unitType":"Civilian Water",
@@ -9,9 +9,10 @@
                 "Can move immediately once bought <hidden from users>",
                 "Cost increases by [15] per owned city",
                 "Can build [Water] improvements on tiles",
+                "Turn this tile into a [Plains] tile <by consuming this unit>",
                 "Can enter ice tiles <after discovering [Combustion]>",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>"
         ]
     }
 ]
-*/
+
