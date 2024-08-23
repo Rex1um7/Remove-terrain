@@ -143,23 +143,6 @@
 		"shortcutKey": "F"
 	},
 	
-        {
-		"name": "Bridge",
-		"terrainsCanBeBuiltOn": [
-                        "Water"
-                ],
-		"turnsToBuild": 4,
-		"techRequired": "Construction",
-		"uniques": [
-			"Can be built outside your borders", 
-			"Costs [3] [Gold] per turn",
-			"[Land] units gain the [Cross Access] promotion <in tiles adjacent to [Bridge] tiles>"
-		],
-                "civilopediaText": [
-                {"text":"Allow your land units to pass through two continents"}
-        ]
-	},
-	
 	// Removals
 	// Any improvement that starts with 'Remove ' is automatically changed into
 	// the improvement that removes the terrainfeature after it.
@@ -174,19 +157,6 @@
 		"uniques": [
 			"Can be built outside your borders",
 			"Can only be built on [Ice] tiles",
-                        "Excluded from map editor"
-		]
-	},
-	{
-                "name": "Remove Bridge",
-		"turnsToBuild": 4,
-		"terrainsCanBeBuiltOn": [
-			"Water"
-		],
-		"techRequired": "Construction",
-		"uniques": [
-			"Can be built outside your borders",
-			"Can only be built on [Bridge] tiles",
                         "Excluded from map editor"
 		]
 	}
