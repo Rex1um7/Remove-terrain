@@ -1,6 +1,6 @@
 [
     {
-        "name":"Test boat",
+        "name":"Test Boat",
         "unitType":"Civilian Water",
         "movement": 4,
         "cost": 75,
@@ -13,6 +13,21 @@
                 "Can enter ice tiles <after discovering [Combustion]>",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>"
         ]
-    }
+    },
+    {
+        "name":"Test Worker",
+        "unitType":"Civilian",
+        "movement": 3,
+        "cost": 100,
+        "requiredTech": "Agriculture",
+        "uniques":[
+                "Can move immediately once bought <hidden from users>",
+                "Cost increases by [15] per owned city",
+                "Can build [Land] improvements on tiles",
+                "Can pass through impassable tiles <after discovering [Construction]>",
+                "Turn this tile into a [Plains] tile <by consuming this unit>",
+			    "Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed> <after discovering [Construction]>"
+        ]
+    },
 ]
 
