@@ -18,14 +18,14 @@ UnitIcons/Test Worker
   orig: 410, 500
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Test Boats
+TileSets/FantasyHex/Units/Test Boats
   rotate: false
   xy: 670, 22
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Test Worker
+TileSets/FantasyHex/Units/Test Worker
   rotate: false
   xy: 670, 58
   size: 32, 28
