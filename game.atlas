@@ -32,3 +32,16 @@ TileSets/FantasyHex/Units/Test Worker
   orig: 32, 28
   offset: 0, 0
   index: -1
+
+game2.png
+size: 500, 500
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+ImprovementIcons/Remove Ice
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
