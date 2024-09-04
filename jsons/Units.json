@@ -25,8 +25,9 @@
                 "Cost increases by [15] per owned city",
                 "Can build [Land] improvements on tiles",
 		"[-33]% construction time for [All] improvements <upon entering the [Industrial era]>",
-		"[-17]% construction time for [All road] improvements",
-                "Can pass through impassable tiles <after discovering [Construction]>",
+		"[-17]% construction time for [Road] improvements",
+                "[-17]% construction time for [Railroad] improvements",                
+		"Can pass through impassable tiles <after discovering [Construction]>",
 		"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed> <after discovering [Construction]>"
         ]
     },
