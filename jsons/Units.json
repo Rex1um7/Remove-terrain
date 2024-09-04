@@ -24,7 +24,8 @@
                 "Can move immediately once bought <hidden from users>",
                 "Cost increases by [15] per owned city",
                 "Can build [Land] improvements on tiles",
-		"[-33]% construction time for [All Road] improvements <upon entering the [Industrial era]>",
+		"[-33]% construction time for [All] improvements <upon entering the [Industrial era]>",
+		"[-17]% construction time for [All road] improvements",
                 "Can pass through impassable tiles <after discovering [Construction]>",
 		"Turn this tile into a [Coast] tile <[1] times> <after which this unit is consumed> <after discovering [Construction]>"
         ]
