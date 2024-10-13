@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name":"Testing Worker ",
+        "name":"Testing Worker",
         "unitType":"Civilian",
         "movement": 3,
         "cost": 175,
