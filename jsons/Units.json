@@ -1,6 +1,6 @@
 [
     {
-        "name":"Test Boats",
+        "name":"Work Boats II",
         "unitType":"Civilian Water",
         "movement": 4,
         "cost": 175,
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "name":"Test Worker",
+        "name":"Worker II",
         "unitType":"Civilian",
         "movement": 3,
         "cost": 175,
