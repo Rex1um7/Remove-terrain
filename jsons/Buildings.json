@@ -2,6 +2,9 @@
         {
                 "name":"Free Worker",
                 "uniques":[
+                        "Unbuildable",
+                        "Unsellable",
+                        "Cannot be purchased",
                         "Free [Testing Worker] appears",
                 ]
         }
