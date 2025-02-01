@@ -35,5 +35,36 @@
 			"Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
 			"Provides a one-time Production bonus to the closest city when cut down"
 		]
-	}
+	},
+	{
+		"name": "Mountain",
+		"type": "Land",
+		"impassable": true,
+		"defenceBonus": 0.25,
+		"RGB": [102, 102, 102],
+		"uniques": [
+			"Rough terrain",
+            		"Has an elevation of [2] for visibility calculations",
+            		"Occurs in chains at high elevations",
+            		"Units ending their turn on this terrain take [50] damage <in tiles without [Mountain Tunnel]>",
+            		"Always Fertility [-2] for Map Generation",
+            		"Considered [Undesirable] when determining start locations"
+		]
+	},
+	{
+		"name": "Marsh",
+		"type": "TerrainFeature",
+		"food": -1,
+		"movementCost": 3,
+		"unbuildable": true,
+		"defenceBonus": -0.15,
+		"occursOn": ["Grassland","Plains"],
+		"uniques": [
+			"Rare feature",
+			"[-2] to Fertility for Map Generation",
+			"Every [9] tiles with this terrain will receive a major deposit of a strategic resource.",
+			"Occurs in groups around high elevations",
+		],
+		"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
+	},
 ] 
