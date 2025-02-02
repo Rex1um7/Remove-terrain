@@ -11,6 +11,8 @@
                 "Can build [All] improvements on tiles",
 		"[-33]% construction time for [Water] improvements <upon entering the [Industrial era]>",
                 "Turn this tile into a [Plains] tile <by consuming this unit>",
+		"Turn this tile into a [Grassland] tile <by consuming this unit>",
+		"Gain [500] [Gold] <after which this unit is consumed>",
                 "Can enter ice tiles <after discovering [Combustion]>",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>"
         ]
