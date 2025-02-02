@@ -133,6 +133,7 @@
 		"name": "Fishing Boats",
 		"terrainsCanBeBuiltOn": ["Coast"],
 		"food": 1,
+		"turnsToBuild": 6,
 		"techRequired": "Sailing",
 		"uniques": [
 			"Can be built outside your borders",
@@ -144,6 +145,7 @@
 	},
 	{
 		"name": "Mountain Tunnel",
+		"turnsToBuild": 4,
 		"terrainsCanBeBuiltOn": ["Mountain"],
 		"techRequired": "Chemistry",
 		"uniques": [
