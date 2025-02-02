@@ -170,7 +170,7 @@
 		"uniques": [
 			"Can be built outside your borders",
 			"Can only be built on [Ice] tiles",
-			"Costs [30] [Gold]",
+			"Gain [-40] [Gold] <(modified by game speed)>",
                         "Excluded from map editor"
 		]
 	}
