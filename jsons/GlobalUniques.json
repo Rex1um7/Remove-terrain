@@ -1,6 +1,6 @@
 {
         "uniques":[
                 "Gain a free [Free Worker] [in capital] <after turn number [100]> <(modified by game speed)>",
-                "Can pass through impassable tiles <in [Mountain Tunnel] tiles> <for [Land] units>"
+                "Can pass through impassable tiles <within [3] tiles of a [Mountain Tunnel]> <for [Land] units>"
         ]
 }
