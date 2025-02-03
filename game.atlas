@@ -1,46 +1,47 @@
 
 game.png
-size: 1080, 594
+size: 1580, 598
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 UnitIcons/Testing Boats 
   rotate: false
-  xy: 0, 0
+  xy: 2, 2
   size: 662, 594
   orig: 662, 594
   offset: 0, 0
   index: -1
 UnitIcons/Testing Worker 
   rotate: false
-  xy: 670, 94
+  xy: 1168, 96
   size: 410, 500
   orig: 410, 500
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Testing Boats 
   rotate: false
-  xy: 670, 22
+  xy: 732, 66
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Testing Worker 
   rotate: false
-  xy: 670, 58
+  xy: 732, 36
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-
-game2.png
-size: 500, 500
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
+TileSets/FantasyHex/Units/Mountain Tunnel 
+  rotate: false
+  xy: 666, 31
+  size: 64, 63
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 ImprovementIcons/Remove Ice
   rotate: false
-  xy: 2, 2
+  xy: 666, 96
   size: 500, 500
   orig: 500, 500
   offset: 0, 0
