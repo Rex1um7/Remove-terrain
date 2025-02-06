@@ -150,6 +150,7 @@
 		"techRequired": "Chemistry",
 		"uniques": [
 			"Can be built outside your borders",
+			"Units ending their turn on this terrain take [0] damage",
 			"Costs [2] [Gold] per turn",
 			"Must be next to [Mountain]",
 			"Unpillagable",
