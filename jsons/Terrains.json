@@ -47,14 +47,14 @@
             		"Has an elevation of [2] for visibility calculations",
             		"Occurs in chains at high elevations",
             		"Units ending their turn on this terrain take [50] damage",
-            		"Always Fertility [-2] for Map Generation",
+			"Units ending their turn on this terrain take [10] damage <in [Mountain Tunnel] tiles>",           		
+			"Always Fertility [-2] for Map Generation",
             		"Considered [Undesirable] when determining start locations"
 		]
 	},
 	{
 		"name": "Mountain Tunnel",
 		"type": "TerrainFeature",
-		"Gold": -3,
 	        "movementCost": 2,
 		"defenceBonus": 0.15,
 		"impassable": false,
@@ -63,6 +63,7 @@
 		"uniques": [
 			"Rough terrain",
             		"Has an elevation of [2] for visibility calculations",
+			"Costs [4] [Gold] per turn when in your territory",
 		],
 	},
 	{
