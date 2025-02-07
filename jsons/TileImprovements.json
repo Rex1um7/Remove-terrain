@@ -143,19 +143,6 @@
 		],
 		"shortcutKey": "F"
 	},
-	{
-		"name": "Mountain Tunnel",
-		"turnsToBuild": 4,
-		"terrainsCanBeBuiltOn": ["Mountain"],
-		"techRequired": "Chemistry",
-		"uniques": [
-			"Can be built outside your borders",
-			"Costs [2] [Gold] per turn",
-			"Must be next to [Mountain]",
-			"Unpillagable",
-			"Irremovable",
-		],
-	},
 	
 	// Removals
 	// Any improvement that starts with 'Remove ' is automatically changed into
