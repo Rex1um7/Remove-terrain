@@ -47,7 +47,6 @@
             		"Has an elevation of [2] for visibility calculations",
             		"Occurs in chains at high elevations",
             		"Units ending their turn on this terrain take [50] damage",
-			"Grants [Mountain Tunnel Ability] ([Allow units pass mountains through tunnel]) to adjacent [{Military} {Land}] units for the rest of the game <in tiles adjacent to [Mountain Tunnel] tiles>",
             		"Always Fertility [-2] for Map Generation",
             		"Considered [Undesirable] when determining start locations"
 		]
@@ -55,12 +54,14 @@
 	{
 		"name": "Mountain Tunnel",
 		"type": "TerrainFeature",
-	        "movementCost": 1,
+		"Gold": -3,
+	        "movementCost": 2,
 		"defenceBonus": 0.15,
 		"impassable": false,
-		"overrideStats": true,
+		"overrideStats": false,
 		"uniques": [
-			
+			"Rough terrain",
+            		"Has an elevation of [2] for visibility calculations",
 		],
 	},
 	{
