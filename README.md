@@ -1,4 +1,4 @@
-**A mod allow you to build a bridge (wip) , remove ice, and help your ally construct their land **
+**A mod allow you to build a tunnel, land units is able to pass the mountain (wip) , remove ice, improvements can be built outside your terriority**
 
 [Icons]
  
