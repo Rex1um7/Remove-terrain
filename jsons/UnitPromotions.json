@@ -1,8 +1,3 @@
 [
-        {
-    		"name": "Mountain Tunnel Ability",
-    		"uniques": [
-                        "Can pass through impassable tiles <in tiles adjacent to [Mountain Tunnel] tiles>", 
-            ],       
-        },
+        
 ]
