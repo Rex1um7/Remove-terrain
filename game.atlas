@@ -32,7 +32,7 @@ TileSets/FantasyHex/Units/Testing Worker
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mountain Tunnel 
+TileSets/HexaRealm/Tiles/Mountain Tunnel 
   rotate: false
   xy: 666, 31
   size: 64, 63
