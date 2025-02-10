@@ -7,6 +7,7 @@
 		"techRequired": "Agriculture",
 		"uniques": [
 			"Can be built outside your borders",
+			"Cannot be built on [resource] tiles",
 			"Can also be built on tiles adjacent to fresh water",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
