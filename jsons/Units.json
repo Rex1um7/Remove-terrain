@@ -24,13 +24,11 @@
         "requiredTech": "Agriculture",
         "uniques":[
                 "Can move immediately once bought <hidden from users>",
-		"Turn this tile into a [Mountain Tunnel] tile <by consuming this unit> <in [Mountain] tiles> <in tiles adjacent to [Mountain] tiles> <after discovering [Dynamite]>",
                 "Cost increases by [7] per owned city",
                 "Can build [Land] improvements on tiles",
 		"[-33]% construction time for [Land] improvements",
 		"[-50]% construction time for [Road] improvements",
                 "[-50]% construction time for [Railroad] improvements",                
-		"Can pass through impassable tiles <after discovering [Construction]>",
         ]
     },
 ]
