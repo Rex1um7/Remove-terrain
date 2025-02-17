@@ -16,20 +16,5 @@
                 "Cannot enter ocean tiles <before discovering [Astronomy]>"
         ]
     },
-    {
-        "name":"Testing Worker",
-        "unitType":"Civilian",
-        "movement": 3,
-        "cost": 225,
-        "requiredTech": "Agriculture",
-        "uniques":[
-                "Can move immediately once bought <hidden from users>",
-                "Cost increases by [7] per owned city",
-                "Can build [Land] improvements on tiles",
-		"[-33]% construction time for [Land] improvements",
-		"[-50]% construction time for [Road] improvements",
-                "[-50]% construction time for [Railroad] improvements",                
-        ]
-    },
 ]
 
