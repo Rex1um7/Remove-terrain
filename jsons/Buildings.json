@@ -1,0 +1,13 @@
+[
+        {
+                "name": "Gilde",
+                "cost": 200,
+                "isNationalWonder": true,
+                "uniques":[
+                        "Only available <in [Capital] cities> <in cities with at least [3] [Specialists]>",
+                        "[+100]% Production when constructing [Civilian] units [in all cities]",
+                        "[-100]% Production when constructing [Settler] units [in all cities] <hidden from users>",        // incompatible with Settler units
+                ],
+                "requiredTech": "Guilds",
+        }
+]
