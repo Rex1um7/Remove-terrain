@@ -27,7 +27,6 @@
                 "Cost increases by [5] per owned city",
                 "Can build [All] improvements on tiles",
 		"[-33]% construction time for [Land] improvements <upon entering the [Industrial era]>",
-                "Turn this tile into a [{River} {Coast}] tile <by consuming this unit> <costs [+350 Gold] stats>",
 		"Turn this tile into a [Coast] tile <by consuming this unit> <costs [+350 Gold] stats>",
         ]
     },
