@@ -18,7 +18,7 @@
     },
 	{
         "name":"Testing Worker",
-        "unitType":"Civilian Water",
+        "unitType":"Civilian",
         "movement": 3,
         "cost": 225,
         "requiredTech": "Construction",
