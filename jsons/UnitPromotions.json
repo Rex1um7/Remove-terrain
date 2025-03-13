@@ -2,7 +2,7 @@
 	{
 		"name": "CrossBridge",
 		"uniques": [
-                        "[1] Movement point cost to disembark <in [Bridge] tiles> <upon entering a [Land] tile>",
+                        "[1] Movement point cost to disembark <upon ending a turn in a [Bridge] tile>",
                         "[1] Movement point cost to embark <upon entering a [Bridge] tile>"
                 ],
     },
