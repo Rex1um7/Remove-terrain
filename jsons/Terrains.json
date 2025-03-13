@@ -52,4 +52,15 @@
 		],
 		"civilopediaText": [{"text":"Only Polders can be built here", "link":"Improvement/Polder"}]
 	},
+	{
+		"name": "Bridge",
+		"type": "TerrainFeature",
+		"movementCost": 1,
+		"unbuildable": true,
+		"occursOn": ["Coast"],
+		"uniques": [
+			"Only [All Road] improvements may be built on this tile",
+			"[40]% Chance to be destroyed by nukes",
+		],
+	},
 ] 
