@@ -29,6 +29,8 @@
 		"[-33]% construction time for [All Road] improvements",
 		"May travel on Water tiles without embarking",
 		"Turn this tile into a [Bridge] tile <[2] times> <after which this unit is consumed> <costs [+250 Gold] stats>",
+		"Turn this tile into a [Road] tile <[2] times> <after which this unit is consumed> <costs [+250 Gold] stats>",
+		"Turn this tile into a [Railroad] tile <[2] times> <after which this unit is consumed> <costs [+250 Gold] stats>",
         ]
     },
 ]
