@@ -59,7 +59,6 @@
 		"unbuildable": true,
 		"occursOn": ["Coast"],
 		"uniques": [
-			"Only [All Road] improvements may be built on this tile",
 			"[40]% Chance to be destroyed by nukes",
 		],
 	},
