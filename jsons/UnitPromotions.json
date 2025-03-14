@@ -2,7 +2,7 @@
 	{
 		"name": "CrossBridge",
 		"uniques": [
-                        "May travel on Water tiles without embarking <upon entering [Bridge] tiles> <in [Bridge] tiles>",
+                        "May travel on Water tiles without embarking <in [Bridge] tiles>",
                 ],
     },
 ]
