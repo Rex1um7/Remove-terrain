@@ -3,6 +3,7 @@
 		"name": "CrossBridge",
 		"uniques": [
                         "May travel on Water tiles without embarking <in [Bridge] tiles>",
+			"[1] Movement point cost to embark <upon entering [Bridge] tiles>",
                 ],
     },
 ]
