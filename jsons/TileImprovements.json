@@ -149,7 +149,7 @@
 	// the improvement that removes the terrainfeature after it.
 	{
 		"name": "Remove Ice",
-		"turnsToBuild": 4,
+		"turnsToBuild": 3,
 		"terrainsCanBeBuiltOn": [
 			"Coast",
 			"Ocean"
