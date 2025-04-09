@@ -20,15 +20,15 @@
 	{
         "name":"Military Engineer",
         "unitType":"Civilian",
-        "movement": 3,
+        "movement": 2,
         "cost": 150,
         "requiredTech": "Machinery",
         "uniques":[
                 "Can move immediately once bought <hidden from users>",
                 "Can build [All Road] improvements on tiles",
+		"Can instantly construct a [All Road] improvement <[3] times> <after which this unit is consumed>",
 		"Can build [Fort] improvements on tiles",
 		"[-50]% construction time for [All Road] improvements",
-		"May travel on Water tiles without embarking",
 		"Automation is a primary action"
         ]
     },
