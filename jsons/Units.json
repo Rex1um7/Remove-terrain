@@ -26,7 +26,7 @@
                 "Can move immediately once bought <hidden from users>",
                 "Can build [All Road] improvements on tiles",
 		"Can build [Fort] improvements on tiles",
-		"[-33]% construction time for [All Road] improvements",
+		"[-50]% construction time for [All Road] improvements",
 		"May travel on Water tiles without embarking",
         ]
     },
