@@ -3,7 +3,7 @@
         "name":"Testing Boats",
         "unitType":"Civilian Water",
         "movement": 5,
-        "cost": 225,
+        "cost": 150,
         "requiredTech": "Sailing",
         "uniques":[
                 "Can move immediately once bought <hidden from users>",
@@ -21,7 +21,7 @@
         "name":"Military Engineer",
         "unitType":"Civilian",
         "movement": 3,
-        "cost": 225,
+        "cost": 150,
         "requiredTech": "Machinery",
         "uniques":[
                 "Can move immediately once bought <hidden from users>",
