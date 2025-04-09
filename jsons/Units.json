@@ -13,7 +13,8 @@
                 "Turn this tile into a [Plains] tile <by consuming this unit> <costs [+250 Gold] stats>",
 		"Turn this tile into a [Grassland] tile <by consuming this unit> <costs [+250 Gold] stats>",
                 "Can enter ice tiles <after discovering [Combustion]>",
-                "Cannot enter ocean tiles <before discovering [Astronomy]>"
+                "Cannot enter ocean tiles <before discovering [Astronomy]>",
+		"Automation is a primary action"
         ]
     },
 	{
@@ -28,6 +29,7 @@
 		"Can build [Fort] improvements on tiles",
 		"[-50]% construction time for [All Road] improvements",
 		"May travel on Water tiles without embarking",
+		"Automation is a primary action"
         ]
     },
 ]
