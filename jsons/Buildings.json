@@ -8,5 +8,13 @@
                         "[+100]% Production when constructing [{non-[Settler]} {Civilian}] units [in all cities]",
                 ],
                 "requiredTech": "Guilds",
-        }
+        },
+        {
+                "name": "TestBuilding",
+                "cost": 0,
+                "uniques":[
+                        "Must have an owned [Coast] within [2] tiles",
+                        "Creates a [City center] improvement on a specific tile",
+                ],
+        },
 ]
