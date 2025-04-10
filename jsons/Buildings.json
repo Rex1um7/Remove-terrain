@@ -9,12 +9,4 @@
                 ],
                 "requiredTech": "Guilds",
         },
-        {
-                "name": "TestBuilding",
-                "cost": 0,
-                "uniques":[
-                        "Must have an owned [Coast] within [2] tiles",
-                        "Creates a [Fort] improvement on a specific tile",
-                ],
-        },
 ]
