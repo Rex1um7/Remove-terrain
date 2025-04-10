@@ -1,6 +1,6 @@
 [
     {
-        "name":"Testing Boats",
+        "name":"Workboat+",
         "unitType":"Civilian Water",
         "movement": 5,
         "cost": 150,
@@ -15,6 +15,17 @@
                 "Can enter ice tiles <after discovering [Combustion]>",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>",
 		"Automation is a primary action"
+        ]
+    },
+	{
+        "name":"Coastworker",
+        "unitType":"Civilian",
+        "movement": 3,
+        "cost": 150,
+        "uniques":[
+                "Can move immediately once bought <hidden from users>",
+                "Cost increases by [2] per owned city",
+                "Turn this tile into a [Coast] tile <by consuming this unit> <costs [+250 Gold] stats>",
         ]
     },
 	{
