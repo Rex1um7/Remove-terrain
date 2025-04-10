@@ -38,7 +38,7 @@
         "uniques":[
                 "Can move immediately once bought <hidden from users>",
                 "Can build [All Road] improvements on tiles",
-		"Can instantly construct a [All Road] improvement <[3] times> <after which this unit is consumed>",
+		"Can instantly construct a [All Road] improvement <[3] times> <for all movement> <after which this unit is consumed>",
 		"Can build [Fort] improvements on tiles",
 		"[-50]% construction time for [All Road] improvements",
 		"Automation is a primary action"
