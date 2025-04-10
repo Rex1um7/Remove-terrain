@@ -12,7 +12,8 @@
 		"[-33]% construction time for [Water] improvements <upon entering the [Industrial era]>",
                 "Turn this tile into a [Plains] tile <by consuming this unit> <costs [+250 Gold] stats>",
 		"Turn this tile into a [Grassland] tile <by consuming this unit> <costs [+250 Gold] stats>",
-                "Can enter ice tiles <after discovering [Combustion]>",
+		"Turn this tile into a [Coast] tile <by consuming this unit> <costs [+250 Gold] stats>",
+                "Can enter ice tiles",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>",
 		"Automation is a primary action"
         ]
