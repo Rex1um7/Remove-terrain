@@ -36,8 +36,8 @@
         "cost": 170,
         "requiredTech": "Machinery",
         "uniques":[
-		"Can speed up construction of a building",
-		"Can instantly construct a [All Road] improvement <[2] times> <for all movement> <after which this unit is consumed>",
+		"Can instantly construct a [All Road] improvement <[2] times> <for all movement> <after which this unit is consumed> <before the [Industrial era]>",
+		"Can instantly construct a [All Road] improvement <[3] times> <for all movement> <after which this unit is consumed> <starting from the [Industrial era]>",
 		"Can instantly construct a [Fort] improvements on tiles <[2] times> <for all movement> <after which this unit is consumed>",
         ]
     },
