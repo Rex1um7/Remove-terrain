@@ -7,12 +7,12 @@
         "requiredTech": "Sailing",
         "uniques":[
                 "Can move immediately once bought <hidden from users>",
-                "Cost increases by [5] per owned city",
+                "Cost increases by [4] per owned city",
                 "Can build [Remove Ice] improvements on tiles <starting from the [Industrial era]>",
 		"[-33]% construction time for [Water] improvements <upon entering the [Industrial era]>",
-                "Turn this tile into a [Plains] tile <by consuming this unit> <costs [+250 Gold] stats>",
-		"Turn this tile into a [Grassland] tile <by consuming this unit> <costs [+250 Gold] stats>",
-		"Turn this tile into a [Coast] tile <by consuming this unit> <costs [+250 Gold] stats>",
+                "Turn this tile into a [Plains] tile <by consuming this unit> <costs [+333 Gold] stats>",
+		"Turn this tile into a [Grassland] tile <by consuming this unit> <costs [+333 Gold] stats>",
+		"Turn this tile into a [Coast] tile <by consuming this unit> <costs [+333 Gold] stats>",
                 "Can enter ice tiles",
                 "Cannot enter ocean tiles <before discovering [Astronomy]>",
 		"Automation is a primary action"
@@ -33,15 +33,12 @@
         "name":"Military Engineer",
         "unitType":"Civilian",
         "movement": 2,
-        "cost": 150,
+        "cost": 170,
         "requiredTech": "Machinery",
         "uniques":[
-                "Can move immediately once bought <hidden from users>",
-                "Can build [All Road] improvements on tiles",
-		"Can instantly construct a [All Road] improvement <[3] times> <for all movement> <after which this unit is consumed>",
-		"Can build [Fort] improvements on tiles",
-		"[-50]% construction time for [All Road] improvements",
-		"Automation is a primary action"
+		"Can speed up construction of a building",
+		"Can instantly construct a [All Road] improvement <[2] times> <for all movement> <after which this unit is consumed>",
+		"Can instantly construct a [Fort] improvements on tiles <[2] times> <for all movement> <after which this unit is consumed>",
         ]
     },
 ]
